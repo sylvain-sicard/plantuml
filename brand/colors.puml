@@ -1,0 +1,13 @@
+@startuml
+
+!define COLOR_ORANGE #ff7900
+!define COLOR_BLUE #4bb4e6
+!define COLOR_GREEN #50be87
+!define COLOR_PINK #ffb4e6
+!define COLOR_VIOLET #a885d8
+!define COLOR_YELLOW #ffd200
+!define COLOR_GREY #8f8f8f
+!define COLOR_BLACK #000000
+!define COLOR_WHITE #ffffff
+
+@enduml

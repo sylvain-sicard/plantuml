@@ -4,6 +4,30 @@
 !$THEME = "C4_OB"
 
 ' =================================
+' Brand Colors
+' =================================
+
+!define OB_COLOR_ORANGE #ff7900
+!define OB_COLOR_BLUE #4bb4e6
+!define OB_COLOR_GREEN #50be87
+!define OB_COLOR_PINK #ff88d8
+!define OB_COLOR_VIOLET #a885d8
+!define OB_COLOR_YELLOW #ffd200
+!define OB_COLOR_GREY #8f8f8f
+!define OB_COLOR_BLACK #000000
+!define OB_COLOR_WHITE #ffffff
+
+!define OB_COLOR_ORANGE_LIGHT #ffe4cc
+!define OB_COLOR_BLUE_LIGHT #dbf0fa
+!define OB_COLOR_GREEN_LIGHT #dcf2e7
+!define OB_COLOR_PINK_LIGHT #ffb4e6
+!define OB_COLOR_VIOLET_LIGHT #eee7f7
+!define OB_COLOR_YELLOW_LIGHT #fff6cc
+!define OB_COLOR_GREY_LIGHT #e9e9e9
+!define OB_COLOR_BLACK_LIGHT #7f7f7f
+!define OB_COLOR_WHITE_LIGHT #f2f2f2
+
+' =================================
 ' C4 Element Colors
 ' =================================
 

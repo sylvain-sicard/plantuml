@@ -4,29 +4,6 @@
 !$THEME = "C4_OB"
 
 ' =================================
-' Brand Colors Definition
-' =================================
-!$OB_COLOR_ORANGE = "#ff7900"
-!$OB_COLOR_BLUE = "#4bb4e6"
-!$OB_COLOR_GREEN = "#50be87"
-!$OB_COLOR_PINK = "#ffb4e6"
-!$OB_COLOR_VIOLET = "#a885d8"
-!$OB_COLOR_YELLOW = "#ffd200"
-!$OB_COLOR_GREY = "#8f8f8f"
-!$OB_COLOR_BLACK = "#000000"
-!$OB_COLOR_WHITE = "#ffffff"
-
-!$OB_COLOR_ORANGE_LIGHT = "#ffe4cc"
-!$OB_COLOR_BLUE_LIGHT = "#dbf0fa"
-!$OB_COLOR_GREEN_LIGHT = "#dcf2e7"
-!$OB_COLOR_PINK_LIGHT = "#ff88d8"
-!$OB_COLOR_VIOLET_LIGHT = "#eee7f7"
-!$OB_COLOR_YELLOW_LIGHT = "#fff6cc"
-!$OB_COLOR_GREY_LIGHT = "#e9e9e9"
-!$OB_COLOR_BLACK_LIGHT = "#7f7f7f"
-!$OB_COLOR_WHITE_LIGHT = "#f2f2f2"
-
-' =================================
 ' C4 Element Colors
 ' =================================
 
